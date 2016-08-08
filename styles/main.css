@@ -1,0 +1,11 @@
+li:hover {
+  text-decoration:none;
+  color: rgb(255, 255, 255);
+  background-color: rgba(255, 30, 30, 0.5);
+  }
+ li ul{
+  display: none;
+}
+li:hover ul {
+  display: block;
+}
